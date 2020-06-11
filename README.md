@@ -1,2 +1,2 @@
-# Restaurants_page-ReactJS-
+# Restaurants_page
 Project on React
